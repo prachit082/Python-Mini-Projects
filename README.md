@@ -5,4 +5,4 @@ Here, I will introduce you to some amazing Python projects for free.<br>
 
 If you’re a newbie to Python where you’ve just learned lists, tuples, dictionaries, and some basic Python modules like the random module, here are some Python projects with source code for beginners.
 
-If you like this, then feel free to give it a star.⭐
+If you like this, then feel free to give it a star⭐
